@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PercivalLin
-- 👀 I’m interested in python-c- 
-- 🌱 I’m currently learning AIGC 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python-c-go.. any language
+- 🌱 I’m currently learning AIGC and agent
+- 💞️ I’m looking to collaborate on computer vision for my major（Optoelectronic Information Science and Engineering）
 - 📫 How to reach me:Lin18974@outlook.com
 
 glad to see u in github,this repo is for my lesson and private practice,if u have any problem,welcome to chat with me in email
